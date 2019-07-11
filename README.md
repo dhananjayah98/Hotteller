@@ -1,6 +1,5 @@
 # Hotteller
 Mobile application  development for “HOTELLER ”.
-Mobile application  development for “HOTELLER ”.
 This HOTELLER app supports following users
 a. Users
 b. Hotel Staffs
